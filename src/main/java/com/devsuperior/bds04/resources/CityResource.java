@@ -20,7 +20,7 @@ import com.devsuperior.bds04.dto.CityDTO;
 import com.devsuperior.bds04.services.CityService;
 
 @RestController
-@RequestMapping(value = "/categories")
+@RequestMapping(value = "/cities")
 public class CityResource {
 
 	@Autowired
